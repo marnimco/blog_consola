@@ -63,4 +63,3 @@ def pedir_datos_post():
     }
 
     return datos_post
-
